@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">ELEANOR</string>
+    <string name="app_version">1.0.0</string>
+    
+    <!-- Account Info -->
+    <string name="github_account">@ivosicek123</string>
+    <string name="orcid_id">0009-0007-4808-8653</string>
+    <string name="repository_url">https://github.com/ivosicek123/bitcoin-wallet-android</string>
+    
+    <!-- Main Screen -->
+    <string name="wallet_title">ELEANOR Bitcoin Wallet</string>
+    <string name="welcome_message">Welcome to your Bitcoin Wallet</string>
+    <string name="create_wallet">Create New Wallet</string>
+    <string name="import_wallet">Import Wallet</string>
+    
+    <!-- Wallet Screen -->
+    <string name="wallet_balance">Balance</string>
+    <string name="wallet_address">Address</string>
+    <string name="total_received">Total Received</string>
+    <string name="total_sent">Total Sent</string>
+    <string name="transactions">Transactions</string>
+    <string name="refresh">Refresh</string>
+    
+    <!-- Actions -->
+    <string name="send_bitcoin">Send Bitcoin</string>
+    <string name="receive_bitcoin">Receive Bitcoin</string>
+    <string name="withdraw_to_bank">Withdraw to Bank</string>
+    <string name="copy_address">Copy Address</string>
+    <string name="share_qr">Share QR Code</string>
+    
+    <!-- Withdrawal -->
+    <string name="withdrawal_amount">Amount (BTC)</string>
+    <string name="exchange_rate">Exchange Rate</string>
+    <string name="withdrawal_fee">Withdrawal Fee</string>
+    <string name="total_amount_czk">Total Amount (CZK)</string>
+    <string name="bank_account">Bank Account: 9999913120</string>
+    <string name="bank_name">Partners banka</string>
+    <string name="account_holder">Account Holder Name</string>
+    <string name="confirm_withdrawal">Confirm Withdrawal</string>
+    
+    <!-- Security -->
+    <string name="authenticate">Authenticate</string>
+    <string name="biometric_title">ELEANOR Wallet</string>
+    <string name="biometric_subtitle">Use your fingerprint or face to authenticate</string>
+    <string name="authentication_required">Authentication Required</string>
+    <string name="invalid_credentials">Invalid credentials</string>
+    
+    <!-- Messages -->
+    <string name="loading">Loading...</string>
+    <string name="error">Error</string>
+    <string name="success">Success</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="retry">Retry</string>
+    <string name="done">Done</string>
+    
+    <!-- Error Messages -->
+    <string name="error_network">Network error. Please check your connection.</string>
+    <string name="error_invalid_address">Invalid Bitcoin address</string>
+    <string name="error_insufficient_balance">Insufficient balance</string>
+    <string name="error_withdrawal_failed">Withdrawal failed. Please try again.</string>
+    <string name="error_authentication_failed">Authentication failed</string>
+    
+    <!-- Success Messages -->
+    <string name="success_wallet_created">Wallet created successfully</string>
+    <string name="success_withdrawal_initiated">Withdrawal initiated</string>
+    <string name="success_transaction_sent">Transaction sent successfully</string>
+    <string name="success_copied">Address copied to clipboard</string>
+    
+    <!-- Settings -->
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+    <string name="backup_phrase">Backup Phrase</string>
+    <string name="change_pin">Change PIN</string>
+    <string name="logout">Logout</string>
+</resources>
